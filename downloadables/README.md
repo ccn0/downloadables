@@ -7,10 +7,9 @@
   - [WordGen v0.1.0b (.html)](https://github.com/ccn0/downloadables/releases/download/WordGen/WordGen.html)
 
 ## Credits
-- Anonymous People
-  - WPSIM
-- CCN0
-  - WordGen
-  - Music Pack No. 1 (composed by arry)
+- WP Simulator
+  - Anonymous contributers
+- WordGen
+  - CCN0, arry
   
 Have fun with these weird softwares, they might've taken time to make.
